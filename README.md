@@ -73,7 +73,7 @@ talentscout-assistant/
 
 1. Clone the Repository
 
-git clone https://github.com/YOUR_USERNAME/talentscout-assistant.git
+git clone https://github.com/nvinod1854/talentscout-assistant-2025.git
 cd talentscout-assistant
 
 2. Create a Virtual Environment
@@ -262,7 +262,6 @@ Issue: Import error (Candidate not found).
 ---
 
 👨‍💻 Author
-
 N Vinod Rathod
 📧 [nvinod18542@gmail.com.com]
-🔗 GitHub: [your-github-profile]
+🔗 GitHub: [https://github.com/nvinod1854]
