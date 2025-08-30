@@ -40,5 +40,26 @@
       "Explain Django middleware.": "d"
     },
     "created_at": "2025-08-29T15:57:32.469619"
+  },
+  {
+    "full_name": "n vinod rathod",
+    "email": "nvinod18542@gmail.com",
+    "phone": "7569104266",
+    "years_experience": 0,
+    "desired_positions": [
+      "ai and ml intern"
+    ],
+    "location": "hydearabad",
+    "tech_stack": [
+      "python",
+      "sql"
+    ],
+    "answers": {
+      "What are Python decorators?": "python",
+      "Explain list comprehension in Python.": "python",
+      "What is normalization?": "sql",
+      "Difference between INNER JOIN and LEFT JOIN?": "sql"
+    },
+    "created_at": "2025-08-30T22:05:05.368910"
   }
 ]
