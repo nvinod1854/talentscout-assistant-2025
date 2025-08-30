@@ -205,18 +205,17 @@ email-validator → robust email checks
 
 
 ---
-
-🚀 Demo
+## Demo Video
 
 Local run:
 
 streamlit run app/main.py
 
-(Optional) Deploy on Streamlit Cloud for live demo.
+You can watch the full demo here:
+[Demo Video] ([text](https://www.loom.com/share/43c1241ae61d406f9f8796ddb0f6a736?sid=57627c7c-8023-4cb5-8e51-792407bfb4f4))
+---
 
-(Bonus) Demo video via Loom/YouTube:
-📹 [Demo Video Link Here]
-
+Drive link [https://drive.google.com/file/d/1JUGLlURF5aaCFWe4OqwBRXXZ022ni5yb/view?usp=drivesdk]
 
 
 ---
@@ -258,12 +257,7 @@ Issue: Import error (Candidate not found).
 ☁️ Cloud deployment (AWS/GCP/Streamlit Cloud)
 
 
-## Demo Video
-You can watch the full demo here
-[Demo Video] ([text](https://www.loom.com/share/43c1241ae61d406f9f8796ddb0f6a736?sid=57627c7c-8023-4cb5-8e51-792407bfb4f4))
----
 
-Drive link [https://drive.google.com/file/d/1JUGLlURF5aaCFWe4OqwBRXXZ022ni5yb/view?usp=drivesdk]
 
 👨‍💻 Author
 
